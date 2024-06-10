@@ -10,7 +10,7 @@
 pandas, numpy, matplotlib, seaborn
 
 ## Сферы деятельности
-Интернет-сервисы, площадки объявлений
+Интернет-сервисы, Площадки объявлений
 
 ## Данные: 
 https://code.s3.yandex.net/datasets/real_estate_data.csv
